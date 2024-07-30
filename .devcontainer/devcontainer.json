@@ -24,7 +24,9 @@
 		"dbaeumer.vscode-eslint",
 		"mtxr.sqltools",
 		"mtxr.sqltools-driver-pg",
-		"jakebecker.elixir-ls"
+		"jakebecker.elixir-ls",
+		"bradlc.vscode-tailwindcss",
+    "adrianwilczynski.alpine-js-intellisense"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
